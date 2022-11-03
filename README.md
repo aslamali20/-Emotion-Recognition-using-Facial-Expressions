@@ -1,0 +1,23 @@
+# -Emotion-Recognition-using-Facial-Expressions
+![EDI_G3_Emotion_Detection 1 of 21](https://user-images.githubusercontent.com/99079432/199656320-ea85f24f-ef95-457d-85a7-64bc39258a17.png)
+![EDI_G3_Emotion_Detection 2 of 21](https://user-images.githubusercontent.com/99079432/199656393-bd214031-57a0-4587-8de1-6e11a850cc6c.png)
+![EDI_G3_Emotion_Detection 3 of 21](https://user-images.githubusercontent.com/99079432/199656409-c2bf9aeb-8701-40e8-b3e6-18cd9ea56bb1.png)
+![EDI_G3_Emotion_Detection 4 of 21](https://user-images.githubusercontent.com/99079432/199656417-b2da7d6f-cae5-4fb7-848b-a1c4c2fe2fc2.png)
+![EDI_G3_Emotion_Detection 5 of 21](https://user-images.githubusercontent.com/99079432/199656431-e29b42e0-da84-461d-b0fb-679b5528c0b1.png)
+![EDI_G3_Emotion_Detection 6 of 21](https://user-images.githubusercontent.com/99079432/199656441-2b467af0-6c78-428f-8dcb-169ee7250633.png)
+![EDI_G3_Emotion_Detection 7 of 21](https://user-images.githubusercontent.com/99079432/199656462-ca12d4f3-4728-4ae9-a789-28e1b62eccf2.png)
+![EDI_G3_Emotion_Detection 8 of 21](https://user-images.githubusercontent.com/99079432/199656468-3576b6ed-d88a-4f36-9534-caf1633b116a.png)
+![EDI_G3_Emotion_Detection 9 of 21](https://user-images.githubusercontent.com/99079432/199656471-34f5bbbe-27c3-4356-b2f9-6a398cfbd563.png)
+![EDI_G3_Emotion_Detection 10 of 21](https://user-images.githubusercontent.com/99079432/199656474-855ea140-9729-4119-81e3-9a03c10f9fbd.png)
+![EDI_G3_Emotion_Detection 11 of 21](https://user-images.githubusercontent.com/99079432/199656479-60e6f838-5d15-404a-8bd6-540ae5b717ea.png)
+![EDI_G3_Emotion_Detection 13 of 21](https://user-images.githubusercontent.com/99079432/199656488-078b21cc-43b1-44ba-ad98-2b01633c2d50.png)
+![EDI_G3_Emotion_Detection 14 of 21](https://user-images.githubusercontent.com/99079432/199656496-cad16116-d80e-423d-9086-4718f2668b7c.png)
+![EDI_G3_Emotion_Detection 15 of 21](https://user-images.githubusercontent.com/99079432/199656501-9185be2d-4a2a-44e6-8dbe-a1be9655fc49.png)
+![EDI_G3_Emotion_Detection 16 of 21](https://user-images.githubusercontent.com/99079432/199656514-d32b3525-2c32-4913-8466-785dfeefdceb.png)
+![EDI_G3_Emotion_Detection 17 of 21](https://user-images.githubusercontent.com/99079432/199656517-a2717f81-025c-4038-bc75-b5c974492aa6.png)
+![EDI_G3_Emotion_Detection 18 of 21](https://user-images.githubusercontent.com/99079432/199656524-ff3bd0e6-93a4-4548-8952-ccc8d47f187a.png)
+![EDI_G3_Emotion_Detection 19 of 21](https://user-images.githubusercontent.com/99079432/199656528-21fa4d41-3514-403a-89d8-eb2f541a3946.png)
+![EDI_G3_Emotion_Detection 20 of 21](https://user-images.githubusercontent.com/99079432/199656539-872516fe-3c42-4d9a-9a5c-33a913fe1ea7.png)
+![EDI_G3_Emotion_Detection 21 of 21](https://user-images.githubusercontent.com/99079432/199656685-0a0d79f5-90d5-40d3-9f27-e3accad41c5e.png)
+for more clarification refer PPT attach
+
